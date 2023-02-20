@@ -33,7 +33,7 @@ migrate_working_dir/
 /build/
 /windows/
 /linux/
-
+constant_data.dart
 # Symbolication related
 app.*.symbols
 
